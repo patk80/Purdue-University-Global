@@ -5,8 +5,15 @@
     font-weight: 700;
 }
 
-header {
+#header {
     background-image: url("assets/imgs/earn-your-degree-faster-with-flexible-online-learning.jpg");
     background-size: cover;
     height: 80vh;
+}
+
+#gray-callout-section {
+    background-image: url("assets/imgs/burst-bottom.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #eeede8;
 }
