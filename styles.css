@@ -1,1 +1,12 @@
 /* font-family: 'Archivo Narrow', sans-serif; */
+.btn {
+    border-radius: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+header {
+    background-image: url("assets/imgs/earn-your-degree-faster-with-flexible-online-learning.jpg");
+    background-size: cover;
+    height: 80vh;
+}
