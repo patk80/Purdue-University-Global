@@ -5,6 +5,14 @@
     font-weight: 700;
 }
 
+.purdue-gold-text {
+    color: #cd970e;
+}
+
+.purdue-dark-gold-text {
+    color: #97700d;
+}
+
 #header {
     background-image: url("assets/imgs/earn-your-degree-faster-with-flexible-online-learning.jpg");
     background-size: cover;
@@ -24,4 +32,8 @@
 
 #percent-image {
     width: 90%;
+}
+
+#earn-credits-section {
+    background: #363332;
 }
