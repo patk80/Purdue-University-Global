@@ -2,6 +2,10 @@
     font-family: "Archivo Narrow", sans-serif;
 }
 
+.arial-font {
+    font-family: "Arial";
+}
+
 .btn {
     border-radius: 0;
     text-transform: uppercase;
@@ -24,10 +28,7 @@
 }
 
 #gray-callout-section {
-    background-image: url("assets/imgs/burst-bottom.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-color: #eeede8;
+    background: #eeede8 url("assets/imgs/burst-bottom.png") no-repeat fixed center;
 }
 
 #find-online-program-section {
