@@ -32,11 +32,11 @@
 }
 
 #gray-callout-section {
-    background: #eeede8 url("assets/imgs/burst-bottom.png") no-repeat fixed center;
+    background: #eeede8 url("assets/imgs/burst-bottom.png") no-repeat center;
 }
 
 #find-online-program-section {
-    background-image: url("assets/imgs/find-the-online-program-that-is-right-for-you.jpg");
+    background: url("assets/imgs/find-the-online-program-that-is-right-for-you.jpg") no-repeat center;
 }
 
 #percent-image {
