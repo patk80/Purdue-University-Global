@@ -21,11 +21,15 @@
     background-size: cover;
 }
 
+#match-your-interest-section {
+    background: url("assets/imgs/burst-full-circle.svg") no-repeat top center;
+}
+
 #percent-image {
     width: 90%;
 }
 
-/* Buttons and text color to match Purder Global Start */
+/* Buttons and text color to match Purdue Global Start */
 .btn {
     border-radius: 0;
     text-transform: uppercase;
@@ -71,4 +75,4 @@
 #earn-credits-section {
     background: #363332;
 }
-/* Buttons and text color to match Purder Global Start */
+/* Buttons and text color to match Purdue Global End */
