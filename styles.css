@@ -6,34 +6,6 @@
     font-family: "Arial";
 }
 
-.btn {
-    border-radius: 0;
-    text-transform: uppercase;
-    font-weight: 700;
-    padding: 15px 30px;
-}
-
-.btn-warning {
-    background-color: #c28e0e;
-}
-
-.btn-warning:hover {
-    background-color: #c28e0e;
-    color: #000000 !important;
-}
-
-.purdue-gold-text {
-    color: #cd970e;
-}
-
-.purdue-dark-gold-text {
-    color: #97700d;
-}
-
-.purdue-footer-gold-text {
-    color: #c28e0e;
-}
-
 #header {
     background-image: url("assets/imgs/earn-your-degree-faster-with-flexible-online-learning.jpg");
     background-size: cover;
@@ -53,6 +25,46 @@
     width: 90%;
 }
 
+/* Buttons and text color to match Purder Global Start */
+.btn {
+    border-radius: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 15px 30px;
+}
+
+.btn-warning {
+    background-color: #c28e0e;
+}
+
+.btn-warning:hover {
+    background-color: #c28e0e;
+    color: #000000 !important;
+}
+
+.btn-outline-warning {
+    background-color: transparent;
+    border: 2px solid #98700d;
+}
+
+.btn-outline-warning:hover {
+    background-color: #98700d;
+    border: 2px solid #98700d;
+}
+
+.purdue-gold-text {
+    color: #cd970e;
+}
+
+.purdue-dark-gold-text {
+    color: #97700d;
+}
+
+.purdue-footer-gold-text {
+    color: #c28e0e;
+}
+
 #earn-credits-section {
     background: #363332;
 }
+/* Buttons and text color to match Purder Global Start */
