@@ -52,6 +52,10 @@
     border: 2px solid #98700d;
 }
 
+.border-warning {
+    border-color: #97700d !important;
+}
+
 .purdue-gold-text {
     color: #cd970e;
 }
