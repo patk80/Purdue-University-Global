@@ -13,6 +13,15 @@
     padding: 15px 30px;
 }
 
+.btn-warning {
+    background-color: #c28e0e;
+}
+
+.btn-warning:hover {
+    background-color: #c28e0e;
+    color: #000000 !important;
+}
+
 .purdue-gold-text {
     color: #cd970e;
 }
