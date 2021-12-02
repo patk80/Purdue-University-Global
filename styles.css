@@ -32,6 +32,19 @@
     margin: 0 20px 20px 0;
 }
 
+/* Border Spacers + Media Queries Start */
+#take-three-weeks-text-container {
+    border-right: 2px solid #000000;
+}
+
+@media screen and (max-width: 768px) {
+    #take-three-weeks-text-container {
+        border-right: none;
+        border-bottom: 2px solid #000000;
+    }
+}
+/* Border Spacers + Media Queries End */
+
 /* Buttons and text color to match Purdue Global Start */
 .btn {
     border-radius: 0;
