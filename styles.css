@@ -6,6 +6,10 @@
     font-family: "Arial";
 }
 
+.nav-item > .dropdown-toggle::after {
+    display:none;
+}
+
 #header {
     background: url("imgs/earn-your-degree-faster-with-flexible-online-learning.jpg") no-repeat center;
     background-size: cover;
@@ -51,9 +55,7 @@
         border-right: none;
         border-bottom: 1px solid #ffffff;
     }
-}
 
-@media screen and (max-width: 576px) {
     #header {
         background-image: url("imgs/earn-your-degree-faster-with-flexible-online-learning-mobile.jpg");
     }
