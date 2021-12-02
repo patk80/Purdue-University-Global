@@ -7,22 +7,22 @@
 }
 
 #header {
-    background-image: url("assets/imgs/earn-your-degree-faster-with-flexible-online-learning.jpg");
+    background-image: url("imgs/earn-your-degree-faster-with-flexible-online-learning.jpg");
     background-size: cover;
     height: 80vh;
 }
 
 #gray-callout-section {
-    background: #eeede8 url("assets/imgs/burst-bottom.png") no-repeat top center;
+    background: #eeede8 url("imgs/burst-bottom.png") no-repeat top center;
 }
 
 #find-online-program-section {
-    background: url("assets/imgs/find-the-online-program-that-is-right-for-you.jpg") no-repeat center;
+    background: url("imgs/find-the-online-program-that-is-right-for-you.jpg") no-repeat center;
     background-size: cover;
 }
 
 #match-your-interest-section {
-    background: url("assets/imgs/burst-full-circle.svg") no-repeat top center;
+    background: url("imgs/burst-full-circle.svg") no-repeat top center;
 }
 
 #percent-image {
