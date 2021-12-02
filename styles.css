@@ -52,6 +52,12 @@
         border-bottom: 1px solid #ffffff;
     }
 }
+
+@media screen and (max-width: 576px) {
+    #header {
+        background-image: url("imgs/earn-your-degree-faster-with-flexible-online-learning-mobile.jpg");
+    }
+}
 /* Border Spacers + Media Queries End */
 
 /* Buttons and text color to match Purdue Global Start */
