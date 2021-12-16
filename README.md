@@ -1,5 +1,5 @@
 # Purdue University Global
-**Languages:** HTML / CSS (Bootstrap 5)
+**Languages:** HTML (Bootstrap 5) / CSS
 
 **URL:** https://patk80.github.io/Purdue-University-Global/
 
