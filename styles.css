@@ -10,6 +10,11 @@
     display:none;
 }
 
+.navbar-dark .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+}
+
 #header {
     background: url("imgs/earn-your-degree-faster-with-flexible-online-learning.jpg") no-repeat center;
     background-size: cover;
